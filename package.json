@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "node-openalpr": "git+https://github.com/bameyrick/node-openalpr.git#b26a8b52f89796d64c86f24e42734e8a3ed77e2d"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fajrullah/node-plate-recognition.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fajrullah/node-plate-recognition/issues"
+  },
+  "homepage": "https://github.com/fajrullah/node-plate-recognition#readme"
 }

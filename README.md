@@ -1,5 +1,5 @@
 # node-plate-recognition
-![alt text](https://raw.githubusercontent.com/fajrullah/node-plate-recognition/master/indonesia1.jpg "Mobil")
+![alt text](https://raw.githubusercontent.com/fajrullah/node-plate-recognition/master/indonesia1.png "Mobil")
 ```javascript
   data_type: 'alpr_results',
   epoch_time: 1570507891130,

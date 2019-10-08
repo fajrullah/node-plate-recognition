@@ -1,0 +1,14 @@
+{
+  "name": "alpr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-openalpr": "git+https://github.com/bameyrick/node-openalpr.git#b26a8b52f89796d64c86f24e42734e8a3ed77e2d"
+  }
+}
